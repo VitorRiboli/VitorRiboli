@@ -1,7 +1,7 @@
 <h3 align="left">Hei  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h3>
 
 ###
-<h4 align="left">My name is Vitor and i'm a javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Rio Grande so Sul, Brasil</b>.</h4>
+<h4 align="left">My name is Vitor and i'm a FullStack developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Rio Grande so Sul, Brasil</b>.</h4>
 
 ###
 <h4 align="left">## I code with</h4>
